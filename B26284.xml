@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loves mistery: or, A parcel of clouded waggery. 'Tis all mens fancy to commend, that which is smooth and witty; more pleasant lines were never penn'd, they are so wondrous pretty. Tune is, She lay naked in her bed, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26284</idno><idno type="EEBO-CITATION">99884702</idno>
+  <idno type="VID">192745</idno>
+  <idno type="EEBO-PROQUEST">2264208662</idno>
+  
+            <idno type="STC">Wing L3273</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[254]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[255]</idno>
+            <idno type="STC">ESTC R216188</idno>
+            <idno type="PROQUEST">ocm99884702</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884702e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26284)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192745)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[146])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loves mistery: or, A parcel of clouded waggery. 'Tis all mens fancy to commend, that which is smooth and witty; more pleasant lines were never penn'd, they are so wondrous pretty. Tune is, She lay naked in her bed, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Kenrick at the Black-spread Eagle in the Old Baily,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1663?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing CD-ROM, 1996.</note>
+                  <note>Verse: "All in the merry month of May,".</note>
+                  <note>In two parts, printed side by side.</note>
+                  <note>Copy cut and mounted.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="topical_term">Bawdy poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:192745:1"/>
+            <head>Loves Mistery: OR, A parcel of clouded Waggery.</head>
+            <argument>
+               <lg>
+                  <l>'Tis all Mens Fancy to commend,</l>
+                  <l>That which is smooth end witty;</l>
+                  <l>More pleasat Lines were never penn'd,</l>
+                  <l>They are so wondrous pretty.</l>
+               </lg>
+            </argument>
+            <opener>Tune is, <hi>She lay naked in her Bed,</hi> &amp;c.</opener>
+            <p>
+               <figure>
+                  <figDesc>woodcut of Cupid and lovers</figDesc>
+               </figure>
+            </p>
+            <div n="1" type="part">
+               <lg>
+                  <l>ALl in the merry Month of <hi>May,</hi>
+                  </l>
+                  <l>the prime time of the Year;</l>
+                  <l>A young man walk'd upon a day,</l>
+                  <l>with one he lov'd most dear:</l>
+                  <l>And as these Lovers secretly,</l>
+                  <l>within the Woods did walk;</l>
+                  <l>Where <hi>Bears</hi> and <hi>Lyons</hi> lurking lye,</l>
+                  <l>and Sprites do nightly walk.</l>
+               </lg>
+               <lg>
+                  <l>This young man's will, was by his skill</l>
+                  <l>to find her Pulse to beat?</l>
+                  <l>That he in love, his art <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>to quench a furious heat:</l>
+                  <l>Which she felt glowing in her veins,</l>
+                  <l>most ready to surprize;</l>
+                  <l>Which caus'd him for to spare no pains,</l>
+                  <l>but fréely to advise,</l>
+               </lg>
+               <lg>
+                  <l>This Damsel gay, a while to stay,</l>
+                  <l>under that pleasant shade;</l>
+                  <l>'Twas so obscure, they might be sure,</l>
+                  <l>they could not be betraied:</l>
+                  <l>Nor did they fear, what prying Ear,</l>
+                  <l>might listen with pretence;</l>
+                  <l>Since what they spoke, might still be took</l>
+                  <l>into a double sense.</l>
+               </lg>
+               <lg>
+                  <l>Her pretty tempting Foot and Legg,</l>
+                  <l>h<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Senses so did charm;</l>
+                  <l>He said, My Dear, if I draw near,</l>
+                  <l>thou néedest fear no harm:</l>
+                  <l>She bid him fréely use his mind,</l>
+                  <l>so that he would not slatter;</l>
+                  <l>He joy'd to sée she was so kind,</l>
+                  <l>and long'd for to be at her.</l>
+               </lg>
+               <lg>
+                  <l>He took her in his Arms so smooth,</l>
+                  <l>in truth I do not mock;</l>
+                  <l>Not meaning any harm at all,</l>
+                  <l>he strait took up her — Block</l>
+                  <l>Whereon she sate, poor silly Maid,</l>
+                  <l>to rest her wearied bones;</l>
+                  <l>But she, being no whit afraid,</l>
+                  <l>caught hold upon his — Thumbs</l>
+               </lg>
+               <lg>
+                  <l>Which made him then for to cry Oh!</l>
+                  <l>that all his face did wrinkle;</l>
+                  <l>But she being not at all dismaid,</l>
+                  <l>catch'd hold upon his — Pimple</l>
+                  <l>Which then was growing on his face;</l>
+                  <l>But let this Pimple pass,</l>
+                  <l>For there is none but may suppose,</l>
+                  <l>she was a jovial Lass.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:192745:1"/>
+               <head>The second part, to the same Tune.</head>
+               <lg>
+                  <l>
+                     <figure>
+                        <figDesc>stock woodcut of couple on bed</figDesc>
+                     </figure>
+                  </l>
+                  <l>HEe venture'd lowly, being tall,</l>
+                  <l>and in his Spéeches blunt,</l>
+                  <l>He made no more, but took up all,</l>
+                  <l>and catch'd her by the —Plump—</l>
+                  <l>Red Chéeks, so comely that did shew;</l>
+                  <l>which caus'd him still to pluck her:</l>
+                  <l>Likewise he had a mighty mind,</l>
+                  <l>to Kiss, to Cull, and — Duck her.</l>
+               </lg>
+               <lg>
+                  <l>Pish fre away, she then did say,</l>
+                  <l>what néedeth all this doeing?</l>
+                  <l>If you will now be ruled by me,</l>
+                  <l>wée'l use small time in Woein<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>:</l>
+                  <l>I'le lay me down upon the ground,</l>
+                  <l>amongst these slideing Seggs,</l>
+                  <l>And all my Coats I'le tuck up round,</l>
+                  <l>and spread abroad my Eggs—</l>
+               </lg>
+               <lg>
+                  <l>Which I have in my Basket here,</l>
+                  <l>fast to my Girdle tuck'd;</l>
+                  <l>Then I shall <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e in handsome Géere,</l>
+                  <l>and ready <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o be — Duck'd—</l>
+                  <l>Into some pleasant running Stream,</l>
+                  <l>for now's the time o'th year,</l>
+                  <l>To wash and scoure every thing,</l>
+                  <l>both Hands, Face, Eyes and Eare.</l>
+               </lg>
+               <lg>
+                  <l>He presently with might and main,</l>
+                  <l>finding his Girle so quick;</l>
+                  <l>Resolving for to ease her pain,</l>
+                  <l>pull'd out of a standing — Stick—</l>
+                  <l>Which he had growing in that place,</l>
+                  <l>it was so smooth and good:</l>
+                  <l>He put fresh colour in her face,</l>
+                  <l>and swéetly stirr'd her blood.</l>
+               </lg>
+               <lg>
+                  <l>She cry'd, O fye, you are so rude,</l>
+                  <l>unless you make an end,</l>
+                  <l>We are so close together Glew'd;</l>
+                  <l>I shall be forc'd to —Rend—</l>
+                  <l>My Smock in sunder to be gone,</l>
+                  <l>or else I am beguild;</l>
+                  <l>If we should stay together long,</l>
+                  <l>I sure should be with —Wild—</l>
+               </lg>
+               <lg>
+                  <l>Beasts sore affrighted, in these Woods,</l>
+                  <l>for there the danger lyes;</l>
+                  <l>I féele the little streaming Flouds,</l>
+                  <l>run trickling down my —Eyes—</l>
+                  <l>For fear of dangers that ensue,</l>
+                  <l>such pretty wanton play;</l>
+                  <l>Therefore leave off, I have my due,</l>
+                  <l>and dare no longer stay.</l>
+               </lg>
+               <lg>
+                  <l>He courteously took up his Mate,</l>
+                  <l>that sported underneath;</l>
+                  <l>And lovingly this Couple sate,</l>
+                  <l>for to recover breath:</l>
+                  <l>And sure they might without offence,</l>
+                  <l>exchange some harmless Kisses,</l>
+                  <l>Hée's not alive, that will not strive,</l>
+                  <l>for to enjoy such Blisses.</l>
+               </lg>
+               <lg>
+                  <l>Let none these modest Lines mistake,</l>
+                  <l>nor put themselves to trouble;</l>
+                  <l>By false constructions for to make,</l>
+                  <l>this pleasant sense séem double:</l>
+                  <l>If any Evil here lye hid,</l>
+                  <l>'tis but imagination;</l>
+                  <l>For what this Couple said or did,</l>
+                  <l>was for their Recreation.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>William Kenrick</hi> at the Black-spread Eagle in the <hi>Old-Baily.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
